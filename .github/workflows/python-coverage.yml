@@ -44,4 +44,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COVERAGE_PATH: coverage.xml
           MINIMUM_GREEN: 30
-          MINIMUM_YELLOW: 20
+          MINIMUM_ORANGE: 20
